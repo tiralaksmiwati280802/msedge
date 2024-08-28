@@ -1,0 +1,78 @@
+{
+   "checksum": "d7cebaa7b2ab1af88f41577198e22541",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13368122806039693",
+            "date_last_used": "13368810852861809",
+            "guid": "133fb935-00e7-4f2e-be10-e9bbc9395054",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "p1",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://rainbow-kleicha-479999.netlify.app/"
+         }, {
+            "date_added": "13368127822889925",
+            "date_last_used": "13369238746223174",
+            "guid": "d47f194b-09be-4cae-985a-19378c9710ca",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "p2",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://visionary-taiyaki-327f98.netlify.app/"
+         }, {
+            "date_added": "13368467661288613",
+            "date_last_used": "13369246049765810",
+            "guid": "10242e9c-dfa5-423e-809d-805402076390",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "p3",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://lighthearted-cucurucho-dfe839.netlify.app/"
+         } ],
+         "date_added": "13368122336121745",
+         "date_last_used": "0",
+         "date_modified": "13368467661288613",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13368122336121747",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13368122336121749",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

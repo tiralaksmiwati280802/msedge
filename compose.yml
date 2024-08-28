@@ -1,0 +1,18 @@
+version: "3.0"
+
+services:
+  msedge:
+    image: lscr.io/linuxserver/msedge:latest
+    container_name: msedge
+    security_opt:
+      - seccomp:unconfined #optional
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /workspaces/msedge:/config
+    ports:
+      - 3000:3000
+    shm_size: "1gb"
+    restart: unless-stopped
